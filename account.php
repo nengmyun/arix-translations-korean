@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'account-overview' => 'Account Overview',
+    'account-overview' => '계정 개요',
     'twofactor-messagebox' => 'Your account must have two-factor authentication enabled in order to continue.',
-    'apikey' => 'API Key',
-    'sshkey' => 'SSH Key',
+    'apikey' => 'API 키',
+    'sshkey' => 'SSH 키',
 
     'update-password' => [
-        'current' => 'Current Password',
-        'new' => 'New Password',
+        'current' => '현재 비밀번호',
+        'new' => '새 비밀번호',
         'requirements' => 'Your new password should be at least 8 characters in length and unique to this website.',
-        'confirm' => 'Confirm New Password',
-        'update' => 'Update Password',
+        'confirm' => '새 비밀번호 확정',
+        'update' => '비밀번호 업데이트',
     ],
 
     'update-email' => [
